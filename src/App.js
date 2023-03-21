@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
     <Login />
-    <h1>Esto es propio de App</h1>
+    <h1>Esto es App</h1>
     </div>
   );
 }
